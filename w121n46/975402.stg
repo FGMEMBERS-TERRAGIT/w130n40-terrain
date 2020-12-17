@@ -1,0 +1,6 @@
+OBJECT_BASE 975402.btg
+OBJECT KFCT.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -120.452957 46.670647 420.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -120.458648 46.668536 419.0 0.00
+OBJECT_SHARED Models/Airport/beacon.xml -120.458250 46.670056 416.5 0.00
+OBJECT Z25.btg

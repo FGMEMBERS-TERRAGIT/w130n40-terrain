@@ -1,0 +1,5 @@
+OBJECT_BASE 942784.btg
+OBJECT CAK3.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -122.945328 49.078652 5.3 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -122.936895 49.079261 5.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -122.936668 49.078539 5.1 0.00
